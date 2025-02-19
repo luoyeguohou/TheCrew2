@@ -22,6 +22,7 @@ That's why I made this project. To give another way to play TheCrew for free and
 # How to play the game
 (If you only want to play the game, then ignore the source file folder, It's not for you.)
 1. All of your gaming buddies need to get a copy of this project.
+![Alt text](./images/imageTest.png)
 2. One of you need to have your own server. (I will teach you how to have a free one later)
 3. The one who has their own server need to start the server program which is release/server/main.exe
 4. Everybody get an IPAddress and Port number which is provided by server.
