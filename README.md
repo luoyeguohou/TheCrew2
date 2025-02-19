@@ -11,13 +11,13 @@ This project is licensed under the MIT License, but does not apply to copyrighte
 If you enjoy this game, please consider purchasing a physical copy to show your support for the original creators.
 
 # What is this project for
-This project is for people who wants to play boardgame TheCrew with their friends online.
-You also have 2 other choices, which are BGA(https://boardgamearena.com/) 
-and Tabletop Simulator(https://store.steampowered.com/app/286160/Tabletop_Simulator/)
-But they do have restrictions: 
-    Tabletop Simulator is not free.
-    BGA doesn't allow undoing moves, and if you aren't member, you can't play with your friends in same IP address.
-That's why I made this project. To give another way to play TheCrew for free and flexible.
+This project is for people who wants to play boardgame TheCrew with their friends online.  
+You also have 2 other choices, which are BGA(https://boardgamearena.com/)   
+and Tabletop Simulator(https://store.steampowered.com/app/286160/Tabletop_Simulator/)  
+But they do have restrictions:   
+    Tabletop Simulator is not free.  
+    BGA doesn't allow undoing moves, and if you aren't member, you can't play with your friends in same IP address.  
+That's why I made this project. To give another way to play TheCrew for free and flexible.  
 
 # How to play the game
 (If you only want to play the game, then ignore the source file folder, It's not for you.)
