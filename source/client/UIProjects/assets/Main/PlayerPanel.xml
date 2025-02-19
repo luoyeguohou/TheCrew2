@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="724,708">
+  <controller name="isCaptain" pages="0,,1," selected="0"/>
+  <controller name="clickableTask" pages="0,,1," selected="1"/>
+  <controller name="clickableCard" pages="0,,1," selected="0"/>
+  <controller name="hasTip" pages="0,,1," selected="1"/>
+  <displayList>
+    <graph id="n3_j135" name="n3" xy="0,0" size="722,711" type="rect" lineSize="0" fillColor="#4fffffff"/>
+    <list id="n11_j135" name="lstCard" xy="10,227" size="673,481" layout="flow_hz" lineGap="11" colGap="11" defaultItem="ui://kkz7vzrdj1354m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n12_j135" name="lstTask" xy="12,76" size="509,145" layout="flow_hz" colGap="11" defaultItem="ui://kkz7vzrdj1354m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n13_j135" name="txtName" xy="19,15" size="261,52" fontSize="24" vAlign="middle" vars="true" autoSize="none" text="Name:{name=7777}"/>
+    <text id="n14_j135" name="txtTrick" xy="278,6" size="199,63" fontSize="29" vAlign="middle" vars="true" autoSize="none" text="Trick:{trick=10}"/>
+    <component id="n15_j135" name="btnAdd" src="j1354o" fileName="Btn.xml" xy="482,12" size="84,51">
+      <Button title="+1"/>
+    </component>
+    <component id="n16_j135" name="btnMinus" src="j1354o" fileName="Btn.xml" xy="576,12" size="81,50">
+      <Button title="-1"/>
+    </component>
+    <component id="n19_j135" name="n19" src="j1354t" fileName="BtnCaptain.xml" xy="636,96" size="76,90" controller="captain,0">
+      <gearDisplay controller="isCaptain" pages="0"/>
+      <Button controller="isCaptain" page="1"/>
+    </component>
+    <component id="n20_j135" name="n20" src="j1354t" fileName="BtnCaptain.xml" xy="639,98" size="74,94" controller="captain,1">
+      <gearDisplay controller="isCaptain" pages="1"/>
+      <Button controller="isCaptain" page="0"/>
+    </component>
+    <graph id="n21_j135" name="btnChangePosTask" xy="14,72" size="511,153" type="rect" lineSize="5" lineColor="#ffcccc00" fillColor="#00ffffff">
+      <gearDisplay controller="clickableTask" pages="1"/>
+    </graph>
+    <graph id="n22_j135" name="btnChangePosCard" xy="4,224" size="681,488" type="rect" lineSize="5" lineColor="#ffcccc00" fillColor="#00ffffff">
+      <gearDisplay controller="clickableCard" pages="1"/>
+    </graph>
+    <component id="n26_f9jl" name="n26" src="f9jl50" fileName="BtnTip.xml" xy="541,107" controller="tip,1">
+      <gearDisplay controller="hasTip" pages="1"/>
+      <Button controller="hasTip" page="0"/>
+    </component>
+    <component id="n27_f9jl" name="n27" src="f9jl50" fileName="BtnTip.xml" xy="537,103" controller="tip,0">
+      <gearDisplay controller="hasTip" pages="0"/>
+      <Button controller="hasTip" page="1"/>
+    </component>
+  </displayList>
+</component>

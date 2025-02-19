@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="102,141" extention="Button">
+  <controller name="captain" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n19_j135" name="n19" src="j1351i" fileName="Images/captain.png" xy="0,0" size="102,141" color="#2a2a2a">
+      <gearDisplay controller="captain" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n21_j135" name="n21" src="j1351i" fileName="Images/captain.png" xy="0,0" size="102,141">
+      <gearDisplay controller="captain" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kkz7vzrd">
+  <resources>
+    <component id="osib0" name="MainCont.xml" path="/"/>
+    <image id="j1351" name="cardFront1.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352" name="taskFront45.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353" name="taskFront46.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1354" name="taskFront47.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1355" name="taskFront48.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1356" name="taskFront49.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1357" name="taskFront50.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1358" name="taskFront51.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1359" name="taskFront44.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135a" name="taskFront52.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135b" name="taskFront54.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135c" name="taskFront55.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135d" name="taskFront56.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135e" name="taskFront57.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135f" name="taskFront58.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135g" name="taskFront59.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135h" name="taskFront60.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135i" name="taskFront53.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135j" name="taskFront43.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135k" name="taskFront42.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135l" name="taskFront41.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135m" name="taskFront24.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135n" name="taskFront25.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135o" name="taskFront26.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135p" name="taskFront27.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135q" name="taskFront28.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135r" name="taskFront29.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135s" name="taskFront30.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135t" name="taskFront31.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135u" name="taskFront32.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135v" name="taskFront33.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135w" name="taskFront34.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135x" name="taskFront35.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135y" name="taskFront36.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j135z" name="taskFront37.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13510" name="taskFront38.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13511" name="taskFront39.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13512" name="taskFront40.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13513" name="taskFront61.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13514" name="taskFront23.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13515" name="taskFront62.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13516" name="taskFront64.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13517" name="taskFront86.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13518" name="taskFront87.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13519" name="taskFront88.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351a" name="taskFront89.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351b" name="taskFront90.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351c" name="taskFront91.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351d" name="taskFront92.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351e" name="taskFront85.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351f" name="taskFront93.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351g" name="taskFront95.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351h" name="taskFront96.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351i" name="captain.png" path="/Images/"/>
+    <image id="j1351j" name="cardBack.png" path="/Images/" exported="true"/>
+    <image id="j1351k" name="cardFrontTip.png" path="/Images/" exported="true"/>
+    <image id="j1351l" name="sos.png" path="/Images/"/>
+    <image id="j1351m" name="sosOff.png" path="/Images/"/>
+    <image id="j1351n" name="taskFront94.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351o" name="taskFront84.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351p" name="taskFront83.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351q" name="taskFront82.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351r" name="taskFront65.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351s" name="taskFront66.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351t" name="taskFront67.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351u" name="taskFront68.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351v" name="taskFront69.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351w" name="taskFront70.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351x" name="taskFront71.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351y" name="taskFront72.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1351z" name="taskFront73.jpg" path="/Images/taskFront/" exported="true"/>
+    <image id="j13520" name="taskFront74.jpg" path="/Images/taskFront/" exported="true"/>
+    <image id="j13521" name="taskFront75.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13522" name="taskFront76.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13523" name="taskFront77.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13524" name="taskFront78.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13525" name="taskFront79.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13526" name="taskFront80.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13527" name="taskFront81.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13528" name="taskFront63.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13529" name="taskFront22.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1352a" name="taskFront21.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1352b" name="taskFront20.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1352c" name="cardFront23.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352d" name="cardFront24.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352e" name="cardFront25.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352f" name="cardFront26.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352g" name="cardFront27.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352h" name="cardFront28.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352i" name="cardFront29.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352j" name="cardFront22.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352k" name="cardFront30.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352l" name="cardFront32.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352m" name="cardFront33.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352n" name="cardFront34.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352o" name="cardFront35.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352p" name="cardFront36.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352q" name="cardFront37.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352r" name="cardFront38.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352s" name="cardFront31.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352t" name="cardFront21.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352u" name="cardFront20.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352v" name="cardFront19.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352w" name="cardFront2.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352x" name="cardFront3.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352y" name="cardFront4.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1352z" name="cardFront5.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13530" name="cardFront6.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13531" name="cardFront7.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13532" name="cardFront8.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13533" name="cardFront9.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13534" name="cardFront10.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13535" name="cardFront11.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13536" name="cardFront12.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13537" name="cardFront13.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13538" name="cardFront14.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j13539" name="cardFront15.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1353a" name="cardFront16.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1353b" name="cardFront17.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1353c" name="cardFront18.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1353d" name="cardFront39.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1353e" name="cardFront40.png" path="/Images/cardFront/" exported="true"/>
+    <image id="j1353f" name="taskBack1.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1353g" name="taskBack2.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1353h" name="taskFront3.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353i" name="taskFront4.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353j" name="taskFront5.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353k" name="taskFront6.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353l" name="taskFront7.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353m" name="taskFront8.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353n" name="taskFront9.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353o" name="taskFront10.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353p" name="taskFront11.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353q" name="taskFront12.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353r" name="taskFront13.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353s" name="taskFront14.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353t" name="taskFront15.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353u" name="taskFront16.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353v" name="taskFront17.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353w" name="taskFront18.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353x" name="taskFront19.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353y" name="taskFront2.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j1353z" name="tip.png" path="/Images/"/>
+    <image id="j13540" name="taskFront1.png" path="/Images/taskFront/" exported="true"/>
+    <image id="j13541" name="taskBack20.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13542" name="taskBack3.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13543" name="taskBack4.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13544" name="taskBack5.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13545" name="taskBack6.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13546" name="taskBack7.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13547" name="taskBack8.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13548" name="taskBack9.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j13549" name="taskBack10.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354a" name="taskBack11.jpg" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354b" name="taskBack12.jpg" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354c" name="taskBack13.jpg" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354d" name="taskBack14.jpg" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354e" name="taskBack15.jpg" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354f" name="taskBack16.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354g" name="taskBack17.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354h" name="taskBack18.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354i" name="taskBack19.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354j" name="taskBack21.png" path="/Images/taskBack/" exported="true"/>
+    <image id="j1354k" name="tipOff.png" path="/Images/"/>
+    <image id="j1354l" name="tipsPanel.png" path="/Images/"/>
+    <component id="j1354m" name="Card.xml" path="/"/>
+    <component id="j1354o" name="Btn.xml" path="/"/>
+    <component id="j1354p" name="PlayerPanel.xml" path="/"/>
+    <component id="j1354q" name="MainWin.xml" path="/" exported="true"/>
+    <component id="j1354s" name="BtnSos.xml" path="/"/>
+    <component id="j1354t" name="BtnCaptain.xml" path="/"/>
+    <image id="j1354u" name="30526002_m.jpg" path="/Images/"/>
+    <component id="j1354v" name="CardPanel.xml" path="/"/>
+    <component id="j1354w" name="SelectPlacePanel.xml" path="/"/>
+    <component id="f9jl4x" name="PlayerPanelMini.xml" path="/"/>
+    <font id="f9jl4y" name="Font1.ttf" path="/Images/" exported="true" renderMode="" samplePointSize="16"/>
+    <component id="f9jl4z" name="HistoryPanel.xml" path="/"/>
+    <component id="f9jl50" name="BtnTip.xml" path="/"/>
+    <image id="kl4x51" name="t1.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x52" name="t31.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x53" name="t30.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x54" name="t29.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x55" name="t28.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x56" name="t27.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x57" name="t26.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x58" name="t25.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x59" name="t24.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5a" name="t23.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5b" name="t22.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5c" name="t21.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5d" name="t20.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5e" name="t19.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5f" name="t18.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5g" name="t32.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5h" name="t17.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5i" name="t15.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5j" name="t14.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5k" name="t13.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5l" name="t12.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5m" name="t11.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5n" name="t10.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5o" name="t9.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5p" name="t8.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5q" name="t7.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5r" name="t6.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5s" name="t5.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5t" name="t4.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5u" name="t3.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5v" name="t2.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5w" name="t16.png" path="/Images/campains/" exported="true"/>
+    <image id="kl4x5x" name="t33.png" path="/Images/campains/" exported="true"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="826,515">
+  <controller name="canTip" pages="3,,4," selected="0"/>
+  <controller name="isTaskInHand" pages="0,,1," selected="1"/>
+  <displayList>
+    <graph id="n29_j135" name="n29" xy="0,0" size="826,515" type="rect" fillColor="#de000000"/>
+    <text id="n31_j135" name="n31" xy="35,351" size="389,73" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="how to deal this card"/>
+    <component id="n32_j135" name="btnTipAsMax" src="j1354o" fileName="Btn.xml" xy="413,220">
+      <gearDisplay controller="canTip" pages="4"/>
+      <Button title="tip as max"/>
+    </component>
+    <component id="n33_j135" name="btnTipAsMin" src="j1354o" fileName="Btn.xml" xy="621,218">
+      <gearDisplay controller="canTip" pages="4"/>
+      <Button title="tip as min"/>
+    </component>
+    <component id="n34_j135" name="btnTipAsOnly" src="j1354o" fileName="Btn.xml" xy="410,113">
+      <gearDisplay controller="canTip" pages="4"/>
+      <Button title="tip as only"/>
+    </component>
+    <component id="n35_j135" name="btnMove" src="j1354o" fileName="Btn.xml" xy="414,329">
+      <Button title="move" titleFontSize="24"/>
+    </component>
+    <loader id="n37_j135" name="image" xy="114,27" size="213,310" url="ui://kkz7vzrdj1352r" align="center" vAlign="middle" fill="scale"/>
+    <component id="n38_j135" name="btnUntip" src="j1354o" fileName="Btn.xml" xy="623,115">
+      <gearDisplay controller="canTip" pages="4"/>
+      <Button title="untip" titleFontSize="26"/>
+    </component>
+    <component id="n39_j135" name="btnClose" src="j1354o" fileName="Btn.xml" xy="622,328">
+      <Button title="close" titleFontSize="23"/>
+    </component>
+    <component id="n40_kl4x" name="btnFinish" src="j1354o" fileName="Btn.xml" xy="417,90">
+      <gearDisplay controller="isTaskInHand" pages="1"/>
+      <Button title="finish" titleFontSize="24"/>
+    </component>
+  </displayList>
+</component>

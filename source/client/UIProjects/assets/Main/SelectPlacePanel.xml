@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="529,118">
+  <displayList>
+    <graph id="n40_j135" name="n40" xy="0,0" size="529,118" type="rect" fillColor="#de000000"/>
+    <text id="n41_j135" name="n41" xy="27,11" size="480,102" fontSize="26" color="#ffffff" vAlign="middle" autoSize="none" text="select a place to move"/>
+  </displayList>
+</component>

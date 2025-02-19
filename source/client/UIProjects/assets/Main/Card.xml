@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="101,147">
+  <controller name="tip" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <loader id="n10_j135" name="image" xy="0,0" size="101,147" url="ui://kkz7vzrdj1352r" align="center" vAlign="middle" fill="scale"/>
+    <image id="n11_j135" name="n11" src="j1353z" fileName="Images/tip.png" xy="34,4" size="31,31">
+      <gearDisplay controller="tip" pages="1,2,3"/>
+      <gearXY controller="tip" pages="2,3" values="35,54|36,103" default="34,4"/>
+    </image>
+  </displayList>
+</component>

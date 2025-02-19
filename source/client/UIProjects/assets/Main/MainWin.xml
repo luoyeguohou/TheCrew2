@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080" overflow="scroll" scroll="both" scrollBarFlags="400">
+  <controller name="state" pages="0,,1,,2," selected="0"/>
+  <controller name="history" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n27_j135" name="n27" xy="0,0" size="1920,1080" url="ui://kkz7vzrdj1354u" align="center" vAlign="middle" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n28_j135" name="n28" xy="0,0" size="1920,1080" type="rect" lineSize="0" fillColor="#38ffffff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n25_j135" name="cont" src="osib0" fileName="MainCont.xml" xy="1,0" size="1920,1080">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n29_j135" name="cardPanel" src="j1354v" fileName="CardPanel.xml" xy="527,264">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n40_j135" name="n40" src="j1354w" fileName="SelectPlacePanel.xml" xy="1355,502">
+      <gearDisplay controller="state" pages="2"/>
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <component id="n42_f9jl" name="historyPanel" src="f9jl4z" fileName="HistoryPanel.xml" xy="479,141">
+      <gearDisplay controller="history" pages="1"/>
+    </component>
+  </displayList>
+</component>

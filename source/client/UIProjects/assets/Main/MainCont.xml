@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080" overflow="scroll" scroll="both" scrollBarFlags="400">
+  <controller name="sos" pages="0,,1," selected="0"/>
+  <controller name="clickableTask" pages="0,,1," selected="0"/>
+  <controller name="clickableCard" pages="0,,1," selected="0"/>
+  <displayList>
+    <list id="n18_j135" name="lstCard" xy="815,22" size="514,151" scale="1.2,1.2" layout="flow_hz" defaultItem="ui://kkz7vzrdj1354m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n19_j135" name="lstTask" xy="22,13" size="548,155" scale="1.3,1.3" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://kkz7vzrdj1354m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n20_j135" name="btnDealCards" src="j1354o" fileName="Btn.xml" xy="1424,216">
+      <Button title="deal card"/>
+    </component>
+    <text id="n21_j135" name="txtSeed" xy="1157,221" size="259,63" fontSize="21" vAlign="middle" autoSize="none" text="" input="true" prompt="input seed....."/>
+    <component id="n22_j135" name="btnDealTaskCards" src="j1354o" fileName="Btn.xml" xy="1426,291">
+      <Button title="deal task" titleFontSize="20"/>
+    </component>
+    <text id="n23_j135" name="txtDifficulty" xy="1159,295" size="258,63" fontSize="18" vAlign="middle" autoSize="none" text="" input="true" prompt="input difficulty....."/>
+    <component id="n25_j135" name="n25" src="j1354s" fileName="BtnSos.xml" xy="1045,226">
+      <gearDisplay controller="sos" pages="1"/>
+      <Button controller="sos" page="0"/>
+    </component>
+    <component id="n26_j135" name="n26" src="j1354s" fileName="BtnSos.xml" xy="1048,230" controller="sos,1">
+      <gearDisplay controller="sos" pages="0"/>
+      <Button controller="sos" page="1"/>
+    </component>
+    <graph id="n27_j135" name="btnChangePosCard" xy="809,10" size="634,199" type="rect" lineSize="5" lineColor="#ffcccc00" fillColor="#00ffffff">
+      <gearDisplay controller="clickableCard" pages="1"/>
+    </graph>
+    <graph id="n28_j135" name="btnChangePosTask" xy="19,5" size="726,201" type="rect" lineSize="5" lineColor="#ffcccc00" fillColor="#00ffffff">
+      <gearDisplay controller="clickableTask" pages="1"/>
+    </graph>
+    <component id="n29_j135" name="btnClear" src="j1354o" fileName="Btn.xml" xy="1490,104">
+      <Button title="clear" titleFontSize="28"/>
+    </component>
+    <component id="n30_usdn" name="btnUpload" src="j1354o" fileName="Btn.xml" xy="1480,11" size="191,70">
+      <Button title="upload" titleFontSize="28"/>
+    </component>
+    <image id="n32_usdn" name="n32" src="j1353z" fileName="Images/tip.png" xy="1623,213" size="117,117"/>
+    <text id="n33_usdn" name="txtHint" xy="1642,251" size="98,78" fontSize="46" vAlign="middle" vars="true" autoSize="none" text="X{num=5}"/>
+    <component id="n34_usdn" name="btnAddHint" src="j1354o" fileName="Btn.xml" xy="1750,224" size="101,60">
+      <Button title="+1"/>
+    </component>
+    <component id="n35_usdn" name="btnMinusHint" src="j1354o" fileName="Btn.xml" xy="1756,295" size="101,56">
+      <Button title="-1"/>
+    </component>
+    <list id="n50_f9jl" name="lstPlayers" xy="9,223" size="961,855" overflow="scroll" lineGap="9" defaultItem="ui://kkz7vzrdf9jl4x">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n51_f9jl" name="selfPanel" src="j1354p" fileName="PlayerPanel.xml" xy="1010,378"/>
+    <list id="n52_f9jl" name="lstHistory" xy="1865,22" size="1021,586" scale="0.7,0.7" layout="flow_hz" overflow="scroll" lineItemCount="10" defaultItem="ui://kkz7vzrdj1354m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n55_kl4x" name="imgCampain" xy="1874,548" size="654,795" url="ui://kkz7vzrdkl4x5k" align="center" fill="scale"/>
+    <component id="n56_kl4x" name="btnAddCampain" src="j1354o" fileName="Btn.xml" xy="1766,526" size="103,70">
+      <Button title="+1" titleFontSize="28"/>
+    </component>
+    <component id="n57_kl4x" name="btnMinusCampain" src="j1354o" fileName="Btn.xml" xy="1765,609" size="103,70">
+      <Button title="-1" titleFontSize="28"/>
+    </component>
+    <component id="n58_kl4x" name="btnTaskCampain" src="j1354o" fileName="Btn.xml" xy="1875,479" size="212,70">
+      <Button title="deal task" titleFontSize="28"/>
+    </component>
+    <component id="n59_kl4x" name="btnReset" src="j1354o" fileName="Btn.xml" xy="2347,443" size="212,70">
+      <Button title="reset" titleFontSize="28"/>
+    </component>
+  </displayList>
+</component>

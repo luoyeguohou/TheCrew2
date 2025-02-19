@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="86,86" extention="Button">
+  <controller name="tip" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n26_f9jl" name="n26" src="j1354k" fileName="Images/tipOff.png" xy="0,0" size="86,86">
+      <gearDisplay controller="tip" pages="0"/>
+    </image>
+    <image id="n27_f9jl" name="n27" src="j1353z" fileName="Images/tip.png" xy="0,0" size="86,86">
+      <gearDisplay controller="tip" pages="1"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

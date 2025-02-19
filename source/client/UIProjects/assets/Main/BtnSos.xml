@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="83,122" extention="Button">
+  <controller name="sos" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n25_j135" name="n25" xy="0,0" size="83,122" url="ui://kkz7vzrdj1351l" fill="scale">
+      <gearIcon controller="sos" pages="1" values="ui://kkz7vzrdj1351m" default="ui://kkz7vzrdj1351l"/>
+    </loader>
+  </displayList>
+  <Button/>
+</component>
