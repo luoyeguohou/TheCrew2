@@ -19,8 +19,31 @@ But they do have restrictions:
     BGA doesn't allow undoing moves, and if you aren't member, you can't play with your friends in same IP address.  
 That's why I made this project. To give another way to play TheCrew for free and flexible.  
 
+# How to run the game
+(ignore the source file folder, It's not for you.)
+1. Run the server program (release/server/main.exe) in your server.  
+2. Run the client program (release/client/TheCrew2.exe) and fill the IPAddress and port number. The default port number is 8080. You can change the resolution in the right area.
+![Alt text](./images/fillAddress.png)
+3. Fill your name and enter room.
+![Alt text](./images/fillName.png)
+
 # How to play the game
-(If you only want to play the game, then ignore the source file folder, It's not for you.)
+1. **pick campaign**
+You can use +1/-1 button to change to next/last campaign.  
+Deal task button is used for those campaigns with specific tasks.
+![Alt text](./images/campaign.png)
+2. **random seed and diffculty**
+You can deal cards and generate random task cards here.  
+Firstly you need to set a seed. Which is used to generate random number for shuffle. Just fill it with any number.
+You can use same seed to play a same game.
+Secondly you need to set a difficulty number, which is provided by campaign in most case.
+Last thing is click DealCard button and DealTask button. You will see some task cards are list at topleft. And you get some game cards.  
+![Alt text](./images/seed.png)
+![Alt text](./images/afterSeed.png)
+3. **am important concept**
+The Game doesn't have any logic about win or lose, whos turn it is. Anyone can do anything anytime like the real board game.  
+
+
 1. All of you need to get a copy of this project.
 ![Alt text](./images/imageTest.png)
 2. One of you need to have your own server. (I will teach you how to have a free one later)
@@ -35,7 +58,13 @@ That's why I made this project. To give another way to play TheCrew for free and
     **8.2 random seed and diffculty**   
     After you pick a campaign, you will get a difficulty number, you need to fill it in this area and fill a random seed with any number you like.(Random seed is used to generate random number,just fill a random one) After fill the seed and difficulty, press the deal card button and deal task button, if the campaign use specific tasks, use the deal task button in campaign area instead.  
     **8.3 The key concept**  
-    I'd like to show this area first. And I want you know a basic concept about the sync. The Game doesn't have any logic about win or lose, whos turn it is. Anyone can do anything anytime like the real board game.It's designed like this because it's more flexible. We can undo moves easily. So how does the Upload button work? In later game, we may do some action like choose a taks, play a card, gather a trick. But after you do that, no one knows you do that, because you only do that on your client. Then you need to press the UPLOAD button, to sync data to others. Ok, imagine, you and your partner each one is in a different multiverse, in your world, you may choose a task but in their world you haven't do that. The UPLOAD button is for cover others' world with your world. Btw the Clear button is for gathering trick, we will talk about it later.  
+    I'd like to show this area first. And I want you know a basic concept about the sync. 
+    The Game doesn't have any logic about win or lose, whos turn it is. Anyone can do anything anytime like the real board game.
+    It's designed like this because it's more flexible. We can undo moves easily. 
+    So how does the Upload button work? In later game, we may do some action like choose a taks, play a card, gather a trick. 
+    But after you do that, no one knows you do that, because you only do that on your client. Then you need to press the UPLOAD button, to sync data to others. 
+    Ok, imagine, you and your partner each one is in a different multiverse, in your world, you may choose a task but in their world you haven't do that. 
+    The UPLOAD button is for cover others' world with your world. Btw the Clear button is for gathering trick, we will talk about it later.  
     **8.4 A area for your own and A area for everybody**  
     The left area show everyone's infomation including yourself, which contains name, whether they're captain, trick number, hand number, trick history, hint card and tasks.   
     The right area show your own information, including your every hand, your task and so on.  
