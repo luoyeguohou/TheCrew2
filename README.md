@@ -28,20 +28,36 @@ That's why I made this project. To give another way to play TheCrew for free and
 ![Alt text](./images/fillName.png)
 
 # How to play the game
-1. **pick campaign**
+1. **pick campaign**  
 You can use +1/-1 button to change to next/last campaign.  
-Deal task button is used for those campaigns with specific tasks.
+Deal task button is used for those campaigns with specific tasks.  
 ![Alt text](./images/campaign.png)
-2. **random seed and diffculty**
-You can deal cards and generate random task cards here.  
-Firstly you need to set a seed. Which is used to generate random number for shuffle. Just fill it with any number.
-You can use same seed to play a same game.
-Secondly you need to set a difficulty number, which is provided by campaign in most case.
-Last thing is click DealCard button and DealTask button. You will see some task cards are list at topleft. And you get some game cards.  
+2. **random seed and diffculty**  
+You can deal cards and generate random task cards here.   
+Firstly you need to set a seed. Which is used to generate random number for shuffle. Just fill it with any number.  
+You can use same seed to play a same game.  
+Secondly you need to set a difficulty number, which is provided by campaign in most case.  
+Last thing is click DealCard button and DealTask button. You will see some task cards are list at topleft. And you get some game cards.    
 ![Alt text](./images/seed.png)
 ![Alt text](./images/afterSeed.png)
-3. **am important concept**
-The Game doesn't have any logic about win or lose, whos turn it is. Anyone can do anything anytime like the real board game.  
+3. **an important concept**  
+This project isn't in real time connection. So after you changed anything(like deal cards, deal tasks). You need to click UPLOAD button to sync your move to others.  
+You will cover others' status so basicly it's recommended that one of you pick campaign, set seeds and difficulty, deal cards and Upload. Then, take turns to act according to the order in the board game.  
+**Always remember to Upload after your move** 
+4. **how to move a card**  
+When you wanna move a card, click it first, you will see a interface, click move button and then you will see yellow box which means this card can be moved to these area, click the yellow box to move.  
+**Remember when you finish a move click the UPLOAD button.**
+![Alt text](./images/moveCard1.png)
+![Alt text](./images/moveCard2.png)
+![Alt text](./images/moveCard3.png)
+![Alt text](./images/moveCard4.png)
+![Alt text](./images/moveCard5.png)
+5. **how to gather a trick**  
+
+6. **hint**
+7. **sign something**
+8. **card tracking tool**
+
 
 
 1. All of you need to get a copy of this project.
